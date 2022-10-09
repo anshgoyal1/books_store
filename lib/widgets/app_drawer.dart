@@ -6,7 +6,7 @@ import 'package:book_store/screens/search_page.dart';
 import 'package:flutter/material.dart';
 
 // typedef TitleCallback = void Function(String, int);
-
+// Code for integrating appbar in the app.
 class AppDrawer extends StatefulWidget {
   const AppDrawer({Key? key}) : super(key: key);
 
