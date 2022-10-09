@@ -6,13 +6,14 @@ import 'package:book_store/screens/search_page.dart';
 import 'package:flutter/material.dart';
 
 // typedef TitleCallback = void Function(String, int);
-
+//Code for Appbar inside he app
 class AppDrawer extends StatefulWidget {
   const AppDrawer({Key? key}) : super(key: key);
 
   @override
   State<AppDrawer> createState() => _AppDrawerState();
 }
+
 
 class _AppDrawerState extends State<AppDrawer> {
   // navigateToPage(BuildContext context, String page) {
