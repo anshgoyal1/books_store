@@ -33,7 +33,7 @@ class _HomePageState extends State<HomePage> {
               ),
               TextButtonWidget(
                 iconData: Icons.library_books,
-                name: "BlackWells books",
+                name: "BlackWells",
                 color: Colors.grey,
               ),
             ],
