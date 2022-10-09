@@ -49,7 +49,7 @@ class _BooksPageState extends State<BooksPage> {
             hintText: 'Enter keywords, title, author or ISBN',
           ),
           Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 200.0),
+            padding: const EdgeInsets.symmetric(horizontal: 160.0),
             child: Row(
               children: [
                 TextButtonWidget(
