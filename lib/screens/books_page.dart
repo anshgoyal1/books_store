@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 // import '../widgets/app_bottom_navigation_bar.dart';
+//imported all widgets
 import '../widgets/app_drawer.dart';
 import '../widgets/card_tile.dart';
 import '../widgets/categories_list.dart';
@@ -48,7 +49,7 @@ class _BooksPageState extends State<BooksPage> {
             hintText: 'Enter keywords, title, author or ISBN',
           ),
           Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 200.0),
+            padding: const EdgeInsets.symmetric(horizontal: 160.0),
             child: Row(
               children: [
                 TextButtonWidget(
