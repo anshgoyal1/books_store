@@ -1,6 +1,7 @@
 # book_store
 
 A new Flutter project.
+This is the project which ansh goyal made and you are all open to contribute.
 
 ## Getting Started
 
